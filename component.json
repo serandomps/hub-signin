@@ -1,0 +1,13 @@
+{
+    "name": "hub-signin",
+    "description": "hub-signin component",
+    "scripts": ["index.js"],
+    "styles": ["styles.css"],
+    "templates": ["template.html"],
+    "main": "index.js",
+    "dependencies": {
+        "serandomps/dust": "master",
+        "serandomps/serand": "master",
+        "serandomps/hub-utils": "master"
+    }
+}
